@@ -34,7 +34,6 @@ if(isset($_POST['loginbut'])){
           <label>
             <input type="checkbox" checked="checked" name="remember"> Remember me
           </label>
-          <a href="#" class="SaiMK">Error Password!</a>
         </div>     
         <div class="container" style="background-color:#f1f1f1">
         <a href="../index.php" class="homebutton">Cancle</a>
